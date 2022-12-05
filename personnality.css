@@ -1,0 +1,40 @@
+body
+{
+    background-color: grey;
+    color: black;  
+}
+
+h1
+{
+    background-color: black;
+    color: white;
+}
+
+p
+{
+ background-color: none;
+ color: white;
+ font-weight: bold;
+ font-size: 16px;
+}
+
+.id-type
+{
+    font-size: 20px;
+}
+
+.id-16-type
+{
+
+}
+
+.list-id
+{
+    background-color: darkcyan;
+}
+
+.all-profile
+{
+    background-color: darkblue;
+    color: white;
+}
